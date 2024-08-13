@@ -9,14 +9,17 @@ I am a student at Polytechnic, specializing in programming and computer electron
 ## Languages and Tools:
 Languages:
 
-![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=C%2b%2b) ![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=CSharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=Java) ![JavaScript](https://img.shields.io/badge/JavaScript-d35400?style=for-the-badge&logo=JavaScript&logoColor=f1c40f) ![HTML](https://img.shields.io/badge/HTML-48dbfb?style=for-the-badge&logo=HTML&logoColor=f1c40f) ![Css](https://img.shields.io/badge/CSS-2e86de?style=for-the-badge&logo=CSS&logoColor=f1c40f) ![Less](https://img.shields.io/badge/Less-2e86de?style=for-the-badge&logo=Less&logoColor=c8d6e5) 
+![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=C%2b%2b) ![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=CSharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=Java) ![JavaScript](https://img.shields.io/badge/JavaScript-d35400?style=for-the-badge&logo=JavaScript&logoColor=f1c40f) ![HTML](https://img.shields.io/badge/HTML-48dbfb?style=for-the-badge&logo=HTML&logoColor=f1c40f) ![Css](https://img.shields.io/badge/CSS-2e86de?style=for-the-badge&logo=CSS&logoColor=f1c40f) ![Less](https://img.shields.io/badge/Less-2e86de?style=for-the-badge&logo=Less&logoColor=c8d6e5) ![Bash shell](https://img.shields.io/badge/Bush_shell-2ed573?style=for-the-badge&logo=sh&logoColor=c8d6e5) 
+
 
 Frameworks: 
 
 ![Vue](https://img.shields.io/badge/Vue-1dd1a1?style=for-the-badge&logo=Vue&logoColor=3498db)
 
 Tools:
+
 ![GIT](https://img.shields.io/badge/Git-e55039?style=for-the-badge&logo=Git&logoColor=ffffff)
+
 
 I have experience working with the Git version control system. I have experience working with the Vue framework. And also, I have skills in working with operating systems based on Linux and Unix, and Windows.
 
