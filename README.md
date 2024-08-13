@@ -13,7 +13,7 @@ Languages:
 
 Frameworks: 
 
-![Vue](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=Vue&logoColor=1dd1a1)
+![Vue](https://img.shields.io/badge/Vue-1dd1a1?style=for-the-badge&logo=Vue&logoColor=3498db)
 
 I have experience working with the Git version control system. I have experience working with the Vue framework. And also, I have skills in working with operating systems based on Linux and Unix, and Windows.
 
