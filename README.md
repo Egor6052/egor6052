@@ -2,11 +2,12 @@
 [![Header](https://github.com/Egor6052/egor6052/blob/NewSite/assets/2024-08-13_20-43-50.png)](https://github.com/Egor6052?tab=repositories)
 
 ## About me: 
-Hi there 👋. I am a student at Odessa Polytechnic. I study programming and computer electronics.
+Hi there 👋. 
+I am a student at Odessa Polytechnic. I study programming and computer electronics.
 
 ## Languages and Tools:
 I am studying and using: 
-![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=) ![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=C#) ![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=Java) ![JavaScript](https://img.shields.io/badge/JavaScript-f1c40f?style=for-the-badge&logo=JS)
+![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=) ![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=C#) ![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=Java) ![JavaScript](https://img.shields.io/badge/JavaScript-f1c40f?style=for-the-badge&logo=JavaScript)
 
 I have experience working with the Git version control system. I have experience working with the Vue framework. And also, I have skills in working with operating systems based on Linux and Unix, and Windows.
 
