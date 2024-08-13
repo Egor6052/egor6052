@@ -15,6 +15,9 @@ Frameworks:
 
 ![Vue](https://img.shields.io/badge/Vue-1dd1a1?style=for-the-badge&logo=Vue&logoColor=3498db)
 
+Tools:
+![GIT](https://img.shields.io/badge/Git-e55039?style=for-the-badge&logo=Git&logoColor=ffffff)
+
 I have experience working with the Git version control system. I have experience working with the Vue framework. And also, I have skills in working with operating systems based on Linux and Unix, and Windows.
 
 <div align="center">
