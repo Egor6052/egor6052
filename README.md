@@ -17,7 +17,12 @@ Frameworks:
 
 I have experience working with the Git version control system. I have experience working with the Vue framework. And also, I have skills in working with operating systems based on Linux and Unix, and Windows.
 
-<img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/free-icon-linux-6124995.png" alt="Linux" width="40"/> <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/1494.png" alt="Unix" width="40"/> <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/2175370.png" alt="Mac" width="40"/> <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/free-icon-windows-220215.png" alt="Windows" width="40"/>
+<div align="center">
+  <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/free-icon-linux-6124995.png" alt="Linux" width="40"/> 
+  <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/1494.png" alt="Unix" width="40"/> 
+  <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/2175370.png" alt="Mac" width="40"/> 
+  <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/free-icon-windows-220215.png" alt="Windows" width="40"/>
+</div>
 
 
 Follow Me
