@@ -8,6 +8,8 @@ Hi there 👋. I am a student at Odessa Polytechnic. I study programming and com
 I am studying
 ![C](https://img.shields.io/badge/C-<#3498db>)
 
+![C++](https://img.shields.io/badge/C++-#2980b9?style=for-the-badge&logo=cpp)
+
 ![C++](https://img.shields.io/badge/C++-<#2980b9>)
 
 ![C#](https://img.shields.io/badge/C-Sharp-<#9b59b6>)
