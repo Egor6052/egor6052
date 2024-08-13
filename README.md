@@ -1,5 +1,5 @@
  ## Hi there 👋
-
+[![Header](https://github.com/Egor6052/egor6052/blob/NewSite/assets/1324-c-code-language.gif)](https://github.com/Egor6052?tab=repositories)
 About me
 
 Languages and Tools
