@@ -1,9 +1,10 @@
 
 [![Header](https://github.com/Egor6052/egor6052/blob/NewSite/assets/2024-08-13_20-43-50.png)](https://github.com/Egor6052?tab=repositories)
 
-## About me: 
-Hi there 👋. 
-I am a student at Odessa Polytechnic. I study programming and computer electronics.
+## About me:
+Hi there 👋.  
+I am a student at Polytechnic, specializing in programming and computer electronics.
+
 
 ## Languages and Tools:
 I am studying and using: 
