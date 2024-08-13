@@ -1,6 +1,14 @@
-## Hi there 👋
+ ## Hi there 👋
+
+About me
+
+Languages and Tools
+
+Follow Me
+
 
 <!--
+
 **Egor6052/egor6052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
+
