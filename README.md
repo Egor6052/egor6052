@@ -9,7 +9,7 @@ I am a student at Polytechnic, specializing in programming and computer electron
 ## Languages and Tools:
 Languages:
 
-![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=C%2b%2b) ![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=CSharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=Java) ![JavaScript](https://img.shields.io/badge/JavaScript-d35400?style=for-the-badge&logo=JavaScript&logoColor=f1c40f) ![HTML](https://img.shields.io/badge/HTML-48dbfb?style=for-the-badge&logo=HTML&logoColor=f1c40f) ![Css](https://img.shields.io/badge/CSS-2e86de?style=for-the-badge&logo=CSS&logoColor=f1c40f) 
+![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=C%2b%2b) ![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=CSharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=Java) ![JavaScript](https://img.shields.io/badge/JavaScript-d35400?style=for-the-badge&logo=JavaScript&logoColor=f1c40f) ![HTML](https://img.shields.io/badge/HTML-48dbfb?style=for-the-badge&logo=HTML&logoColor=f1c40f) ![Css](https://img.shields.io/badge/CSS-2e86de?style=for-the-badge&logo=CSS&logoColor=f1c40f) ![Less](https://img.shields.io/badge/Less-2e86de?style=for-the-badge&logo=Less&logoColor=f1c40f) 
 
 Frameworks: 
 
