@@ -8,7 +8,7 @@ I am a student at Polytechnic, specializing in programming and computer electron
 
 ## Languages and Tools:
 I am studying and using: 
-![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=C%2b%2b) ![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=Cx23) ![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=Java) ![JavaScript](https://img.shields.io/badge/JavaScript-d35400?style=for-the-badge&logo=JavaScript&logoColor=f1c40f)
+![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=C%2b%2b) ![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=CSharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=Java) ![JavaScript](https://img.shields.io/badge/JavaScript-d35400?style=for-the-badge&logo=JavaScript&logoColor=f1c40f)
 
 I have experience working with the Git version control system. I have experience working with the Vue framework. And also, I have skills in working with operating systems based on Linux and Unix, and Windows.
 
