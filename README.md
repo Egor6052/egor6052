@@ -10,7 +10,7 @@ I am studying
 
 ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=)
 
-![C#](https://img.shields.io/badge/C-Sharp-9b59b6?style=for-the-badge&logo=Csharp)
+![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=C#)
 
 ![Java](https://img.shields.io/badge/Java-e74c3c)
 
