@@ -1,10 +1,10 @@
  ## Hi there 👋
-[![Header](https://github.com/Egor6052/egor6052/blob/NewSite/assets/1324-c-code-language.gif)](https://github.com/Egor6052?tab=repositories)
+[![Header](https://github.com/Egor6052/egor6052/blob/NewSite/assets/2024-08-13_20-43-50.png)](https://github.com/Egor6052?tab=repositories)
 
 ## About me: I am a student at Odessa Polytechnic. I study programming and computer electronics.
 
 Languages and Tools
-![C++](https://img.shields.io/badge/<C++>-<#3498db>)
+![C++](https://img.shields.io/badge/C++-<#3498db>)
 
 Follow Me
 
