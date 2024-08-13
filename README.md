@@ -6,13 +6,11 @@ Hi there 👋. I am a student at Odessa Polytechnic. I study programming and com
 
 ## Languages and Tools:
 I am studying
-![C](https://img.shields.io/badge/C-3498db)
+![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C)
 
-![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=C++)
+![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=)
 
-![C++](https://img.shields.io/badge/C++-2980b9)
-
-![C#](https://img.shields.io/badge/C-Sharp-9b59b6)
+![C#](https://img.shields.io/badge/C-Sharp-9b59b6?style=for-the-badge&logo=Csharp)
 
 ![Java](https://img.shields.io/badge/Java-e74c3c)
 
