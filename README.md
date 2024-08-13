@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/Egor6052/egor6052/blob/NewSite/assets/2024-08-13_20-43-50.png)](https://github.com/Egor6052?tab=repositories)
+[![Header](https://github.com/Egor6052/egor6052/blob/NewSite/assets/2024-08-13_21-33-55.png)](https://github.com/Egor6052?tab=repositories)
 
 ## About me:
 Hi there 👋.  
