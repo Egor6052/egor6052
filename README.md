@@ -25,7 +25,11 @@ I have experience working with the Git version control system, where I managed c
 
 I have also worked with the Vue framework in several projects, focusing on front-end development and state management.
 
-Additionally, I have skills in working with operating systems based on Linux, Unix, and Windows, which include system administration, scripting, and optimizing workflows. I am always eager to learn and adopt new tools and technologies to improve my workflow and efficiency.
+
+In addition, I possess strong skills in working with Linux, Unix, and Windows operating systems, including system administration, scripting, and workflow optimization.
+I am also experienced in microcontroller programming, particularly with AVR controllers from the ATmega series, where I have developed and optimized embedded systems.
+I am continuously motivated to expand my knowledge and integrate new tools and technologies to enhance efficiency and deliver high-quality results.
+
 
 <div align="center">
   <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/free-icon-linux-6124995.png" alt="Linux" width="40"/> 
