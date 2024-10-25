@@ -23,7 +23,7 @@ Tools:
 
 I have experience working with the Git version control system, where I managed code repositories, conducted code reviews, and coordinated collaboration among team members.
 
-I have also worked with the Vue framework in several projects, focusing on front-end development.
+I have also worked with the Vue framework in several projects, focusing on front-end and back-end development.
 
 In addition, I possess strong skills in working with Linux, Unix, and Windows operating systems, including system administration, scripting, and workflow optimization. I am also experienced in microcontroller programming, particularly with AVR controllers from the ATmega series. I am continuously motivated to expand my knowledge and integrate new tools and technologies to enhance efficiency and deliver high-quality results.
 
