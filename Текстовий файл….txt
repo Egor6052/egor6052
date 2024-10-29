@@ -15,21 +15,25 @@
 
 Прагну розпочати кар’єру як Junior C++ Developer і досягти якісних результатів у професійному зростанні.
 Досвід:
+
 ## Мови програмування:
 C, C++, Java, C#, JavaScript
 
 ![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=C%2b%2b) ![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=CSharp&logoColor=white)  ![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=Java)  ![JavaScript](https://img.shields.io/badge/JavaScript-d35400?style=for-the-badge&logo=JavaScript&logoColor=f1c40f) 
 
-##  Front-end та Back-end: HTML, CSS, Less, Bash
+##  Front-end та Back-end: 
+HTML, CSS, Less, Bash
 ![HTML](https://img.shields.io/badge/HTML-48dbfb?style=for-the-badge&logo=HTML&logoColor=f1c40f)  ![Css](https://img.shields.io/badge/CSS-2e86de?style=for-the-badge&logo=CSS&logoColor=f1c40f)  ![Less](https://img.shields.io/badge/Less-2e86de?style=for-the-badge&logo=Less&logoColor=c8d6e5)  ![Bash shell](https://img.shields.io/badge/Bush_shell-2ed573?style=for-the-badge&logo=sh&logoColor=c8d6e5) 
 
 
 
-## Система контролю версій Git: Маю досвід управління кодом, проведення код-рев'ю та координування співпраці між членами команди.
+## Система контролю версій Git: 
+Маю досвід управління кодом, проведення код-рев'ю та координування співпраці між членами команди.
 
 ![GIT](https://img.shields.io/badge/Git-e55039?style=for-the-badge&logo=Git&logoColor=ffffff) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 
-## Операційні системи: Володію хорошими навичками роботи з Linux, Unix та Windows, маю навички системного адміністрування, створення скриптів і оптимізації робочого процесу.
+## Операційні системи: 
+Володію хорошими навичками роботи з Linux, Unix та Windows, маю навички системного адміністрування, створення скриптів і оптимізації робочого процесу.
 
 <div align="center">
   <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/free-icon-linux-6124995.png" alt="Linux" width="40"/> 
