@@ -6,10 +6,10 @@ Hi! 👋
 My name is Yegor Semenov, and I am a student at Odessa Polytechnic University, majoring in "Automation and Computer-Integrated Technologies." I currently live in Odessa.
 ## Skills and Interests:
 
-Microcontrollers: I have experience in programming microcontrollers, particularly the AVR series ATmega, which I continue to develop as a hobby.
-Web Development: I've worked with the Vue.js framework on several projects, focusing on frontend and backend development. You can view my projects in my GitHub repositories.
-Native Development: I prefer native development using C/C++, Java, and C# and aim to continue progressing in native C++ development.
-Databases: I have basic experience working with databases, including Google Firebase.
+**Microcontrollers**: I have experience in programming microcontrollers, particularly the AVR series ATmega, which I continue to develop as a hobby.  
+**Web Development**: I've worked with the Vue.js framework on several projects, focusing on frontend and backend development. You can view my projects in my GitHub repositories.  
+**Native Development**: I prefer native development using C/C++, Java, and C# and aim to continue progressing in native C++ development.  
+**Databases**: I have basic experience working with databases, including Google Firebase.
 
 ## Goal:
 
