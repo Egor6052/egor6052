@@ -13,7 +13,7 @@ My name is Yegor Semenov, and I am a student at Odessa Polytechnic University, m
 
 ## Goal:
 
-I aim to start my career as a Junior C++ Developer and achieve significant growth in my professional development.
+I aim to begin my career as a Junior C++ Developer and achieve significant growth in my professional development.
 
 ## Programming Languages:
 C, C++, Java, C#, JavaScript
