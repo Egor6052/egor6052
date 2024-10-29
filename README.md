@@ -23,7 +23,8 @@ C, C++, Java, C#, JavaScript
 
 ##  Front-end та Back-end: 
 HTML, CSS, Less, Bash
-![HTML](https://img.shields.io/badge/HTML-48dbfb?style=for-the-badge&logo=HTML&logoColor=f1c40f)  ![Css](https://img.shields.io/badge/CSS-2e86de?style=for-the-badge&logo=CSS&logoColor=f1c40f)  ![Less](https://img.shields.io/badge/Less-2e86de?style=for-the-badge&logo=Less&logoColor=c8d6e5)  ![Bash shell](https://img.shields.io/badge/Bush_shell-2ed573?style=for-the-badge&logo=sh&logoColor=c8d6e5) 
+
+![HTML](https://img.shields.io/badge/HTML-48dbfb?style=for-the-badge&logo=HTML&logoColor=f1c40f)  ![Css](https://img.shields.io/badge/CSS-2e86de?style=for-the-badge&logo=CSS&logoColor=f1c40f)  ![Less](https://img.shields.io/badge/Less-2e86de?style=for-the-badge&logo=Less&logoColor=c8d6e5)  ![Bash shell](https://img.shields.io/badge/Bush_shell-2ed573?style=for-the-badge&logo=sh&logoColor=c8d6e5)  ![Vue](https://img.shields.io/badge/Vue-1dd1a1?style=for-the-badge&logo=Vue&logoColor=3498db)
 
 
 
