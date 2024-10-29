@@ -1,40 +1,39 @@
 
 [![Header](https://github.com/Egor6052/egor6052/blob/NewSite/assets/2024-08-13_21-33-55.png)](https://github.com/Egor6052?tab=repositories)
 ## About me:
-Привіт! 👋
+Hi! 👋
 
-Мене звати Єгор Семенов, я студент Одеської Політехніки, спеціальність "Автоматизація та комп'ютерно-інтегровані технології". Проживаю в Одесі.
-## Навички та інтереси:
+My name is Yegor Semenov, and I am a student at Odessa Polytechnic University, majoring in "Automation and Computer-Integrated Technologies." I currently live in Odessa.
+## Skills and Interests:
 
-Мікроконтролери: Маю досвід програмування мікроконтролерів, зокрема AVR серії ATmega, що розвиваю як хобі.
-Веб-розробка: Працював із фреймворком Vue.js над кількома проектами, зосереджуючись на розробці інтерфейсів і серверної частини. Мої проекти можна переглянути в репозиторіях на GitHub.
-Нативна розробка: Віддаю перевагу розробці на C/C++, Java, та C# і маю мету розвиватися у напрямку нативної розробки на C++.
-Бази даних: Маю початковий досвід роботи з базами даних, включаючи проекти з використанням SQL.
+Microcontrollers: I have experience in programming microcontrollers, particularly the AVR series ATmega, which I continue to develop as a hobby.
+Web Development: I've worked with the Vue.js framework on several projects, focusing on frontend and backend development. You can view my projects in my GitHub repositories.
+Native Development: I prefer native development using C/C++, Java, and C# and aim to continue progressing in native C++ development.
+Databases: I have basic experience working with databases, including Google Firebase.
 
-## Мета:
+## Goal:
 
-Прагну розпочати кар’єру як Junior C++ Developer і досягти якісних результатів у професійному зростанні.
-Досвід:
+I aim to start my career as a Junior C++ Developer and achieve significant growth in my professional development.
 
-## Мови програмування:
+## Programming Languages:
 C, C++, Java, C#, JavaScript
 
 ![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=C%2b%2b) ![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=CSharp&logoColor=white)  ![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=Java)  ![JavaScript](https://img.shields.io/badge/JavaScript-d35400?style=for-the-badge&logo=JavaScript&logoColor=f1c40f) 
 
-##  Front-end та Back-end: 
+##  Front-end and Back-end: 
 HTML, CSS, Less, Bash
 
 ![HTML](https://img.shields.io/badge/HTML-48dbfb?style=for-the-badge&logo=HTML&logoColor=f1c40f)  ![Css](https://img.shields.io/badge/CSS-2e86de?style=for-the-badge&logo=CSS&logoColor=f1c40f)  ![Less](https://img.shields.io/badge/Less-2e86de?style=for-the-badge&logo=Less&logoColor=c8d6e5)  ![Bash shell](https://img.shields.io/badge/Bush_shell-2ed573?style=for-the-badge&logo=sh&logoColor=c8d6e5)  ![Vue](https://img.shields.io/badge/Vue-1dd1a1?style=for-the-badge&logo=Vue&logoColor=3498db)
 
 
 
-## Система контролю версій Git: 
-Маю досвід управління кодом, проведення код-рев'ю та координування співпраці між членами команди.
+## Version Control - Git:
+I have experience in code management, conducting code reviews, and coordinating teamwork.
 
 ![GIT](https://img.shields.io/badge/Git-e55039?style=for-the-badge&logo=Git&logoColor=ffffff) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 
-## Операційні системи: 
-Володію хорошими навичками роботи з Linux, Unix та Windows, маю навички системного адміністрування, створення скриптів і оптимізації робочого процесу.
+## Operating Systems:
+I am proficient in Linux, Unix, and Windows, with skills in system administration, scripting, and workflow optimization.
 
 <div align="center">
   <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/free-icon-linux-6124995.png" alt="Linux" width="40"/> 
@@ -44,9 +43,9 @@ HTML, CSS, Less, Bash
 </div>
 
 
-## Особисті якості:
+## Personal Qualities:
 
-Постійно прагну розширювати свої знання, інтегрувати нові інструменти та технології для підвищення ефективності та досягнення високої якості результатів.
+I am constantly seeking to expand my knowledge, integrate new tools and technologies, and achieve high-quality results through enhanced efficiency.
 
 
 <!--
