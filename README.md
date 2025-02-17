@@ -34,7 +34,7 @@ I have experience in code management, conducting code reviews, and coordinating 
 
 ## Databases
 I have basic experience working with databases, including PostgreSQL, MySQL, Google Firebase.
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFCA28?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff)  ![MySQL](https://img.shields.io/badge/MySQL-FFCA28?style=for-the-badge&logo=MySQL&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFCA28?style=for-the-badge&logo=PostgreSQL&logoColor=2980b9)  ![MySQL](https://img.shields.io/badge/MySQL-FFCA28?style=for-the-badge&logo=MySQL&logoColor=e74c3c)
 
 ## Operating Systems:
 I am proficient in Linux, Unix, and Windows, with skills in system administration, scripting, and workflow optimization.
