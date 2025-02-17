@@ -7,9 +7,9 @@ My name is Yegor Semenov, and I am a student at Odessa Polytechnic University, m
 ## Skills and Interests:
 
 **Microcontrollers**: I have experience in programming microcontrollers, particularly the AVR series ATmega, which I continue to develop as a hobby.  
-**Web Development**: I've worked with the Vue.js framework on several projects, focusing on frontend and backend development. You can view my projects in my GitHub repositories.  
 **Native Development**: I prefer native development using C/C++, Java, and C# and aim to continue progressing in native C++ development.  
-**Databases**: I have basic experience working with databases, including Google Firebase.
+**Web Development**: I've worked with the Vue.js framework on several projects, focusing on frontend and backend development. You can view my projects in my GitHub repositories.  
+**Databases**: I have basic experience working with databases, including PostgreSQL, MySQL, Google Firebase.
 
 ## Goal:
 
@@ -21,16 +21,20 @@ C, C++, Java, C#, JavaScript
 ![C](https://img.shields.io/badge/C-3498db?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=C%2b%2b) ![C#](https://img.shields.io/badge/CSharp-9b59b6?style=for-the-badge&logo=CSharp&logoColor=white)  ![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=Java)  ![JavaScript](https://img.shields.io/badge/JavaScript-d35400?style=for-the-badge&logo=JavaScript&logoColor=f1c40f) 
 
 ##  Front-end and Back-end: 
-HTML, CSS, Less, Bash
+HTML, CSS, Less, Bash, Vue
 
 ![HTML](https://img.shields.io/badge/HTML-48dbfb?style=for-the-badge&logo=HTML&logoColor=f1c40f)  ![Css](https://img.shields.io/badge/CSS-2e86de?style=for-the-badge&logo=CSS&logoColor=f1c40f)  ![Less](https://img.shields.io/badge/Less-2e86de?style=for-the-badge&logo=Less&logoColor=c8d6e5)  ![Bash shell](https://img.shields.io/badge/Bush_shell-2ed573?style=for-the-badge&logo=sh&logoColor=c8d6e5)  ![Vue](https://img.shields.io/badge/Vue-1dd1a1?style=for-the-badge&logo=Vue&logoColor=3498db)
 
 
 
-## Version Control - Git:
+## Version Control:
 I have experience in code management, conducting code reviews, and coordinating teamwork.
 
-![GIT](https://img.shields.io/badge/Git-e55039?style=for-the-badge&logo=Git&logoColor=ffffff) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)
+![GIT](https://img.shields.io/badge/Git-e55039?style=for-the-badge&logo=Git&logoColor=ffffff) 
+
+## Database
+I have basic experience working with databases, including PostgreSQL, MySQL, Google Firebase.
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFCA28?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff)  ![MySQL](https://img.shields.io/badge/MySQL-FFCA28?style=for-the-badge&logo=MySQL&logoColor=ffffff)
 
 ## Operating Systems:
 I am proficient in Linux, Unix, and Windows, with skills in system administration, scripting, and workflow optimization.
