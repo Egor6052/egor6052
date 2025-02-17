@@ -32,7 +32,7 @@ I have experience in code management, conducting code reviews, and coordinating 
 
 ![GIT](https://img.shields.io/badge/Git-e55039?style=for-the-badge&logo=Git&logoColor=ffffff) 
 
-## Database
+## Databases
 I have basic experience working with databases, including PostgreSQL, MySQL, Google Firebase.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFCA28?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff)  ![MySQL](https://img.shields.io/badge/MySQL-FFCA28?style=for-the-badge&logo=MySQL&logoColor=ffffff)
 
