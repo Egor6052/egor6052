@@ -3,7 +3,7 @@
 ## About me:
 Hi! 👋
 
-My name is Yegor Semenov, and I am a student at Odessa Polytechnic University, majoring in "Automation and Computer-Integrated Technologies." I currently live in Odessa. I have more than 1 year of professional experience in my specialty.
+My name is Yegor Semenov, I am a student of Odessa Polytechnic University, majoring in “Automation and Computer-Integrated Technologies”. I currently live in Odessa. I completed 4 years of undergraduate studies and received a diploma with honors. I have more than 1 year of professional experience in my specialty.
 
 ## Skills and Interests:
 
