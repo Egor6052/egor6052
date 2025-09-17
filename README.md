@@ -44,9 +44,9 @@ I have experience in code management, conducting code reviews, and coordinating 
 ![GIT](https://img.shields.io/badge/Git-e55039?style=for-the-badge&logo=Git&logoColor=ffffff) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=ffffff)
 
 ## Databases
-I have basic experience working with databases, including PostgreSQL, MySQL, Google Firebase, as well as some familiarity with MongoDB, SQLite, and Microsoft SQL Server.
+I have basic experience working with databases, including PostgreSQL, MySQL, Google Firebase, as well as some familiarity with MongoDB, SQLite, MariaDB, and Microsoft SQL Server.
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2980b9?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-e74c3c?style=for-the-badge&logo=MySQL&logoColor=ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=ffffff) ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2980b9?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-e74c3c?style=for-the-badge&logo=MySQL&logoColor=ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=ffffff) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)
 
 ## Operating Systems:
 I am proficient in Linux, Unix, and Windows, with skills in system administration, scripting, and workflow optimization.
