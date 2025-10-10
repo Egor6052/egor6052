@@ -17,7 +17,7 @@ For backend applications and services, I most often use C and C++, less often C#
 
 
 ## Goal:
-I have 1 year of work experience, and currently work at MARKO Ltd as a systems administrator. I started my career as a junior C++ developer, and have made significant progress in my professional development.
+I have 1 year of work experience, and currently work as a systems administrator. I started my career as a junior C++ developer, and have made significant progress in my professional development.
 
 ## Programming Languages:
 C, C++, Lua, Java, C#, JavaScript
