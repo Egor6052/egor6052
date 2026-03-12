@@ -30,9 +30,9 @@ C, C++, Lua, Java, C#, JavaScript
  ![Vue](https://img.shields.io/badge/Vue-1dd1a1?style=for-the-badge&logo=Vue&logoColor=3498db) ![STM32Cube](https://img.shields.io/badge/STM32Cube-0080FF?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-F6821F?style=for-the-badge&logo=platformio&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/ArduinoIDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![IDF Framework](https://img.shields.io/badge/IDF_Framework-FFCC00?style=for-the-badge&logo=espressif&logoColor=black) ![StLink](https://img.shields.io/badge/StLink-2C3E50?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![avrdude](https://img.shields.io/badge/avrdude-4B4B4B?style=for-the-badge&logo=gnu&logoColor=white)
 
 ##  Front-end
-HTML, CSS, Less, Vue
+HTML, CSS, Less, Vue, JavaScript
 
-![HTML](https://img.shields.io/badge/HTML-48dbfb?style=for-the-badge&logo=HTML&logoColor=f1c40f)  ![Css](https://img.shields.io/badge/CSS-2e86de?style=for-the-badge&logo=CSS&logoColor=f1c40f)  ![Less](https://img.shields.io/badge/Less-2e86de?style=for-the-badge&logo=Less&logoColor=c8d6e5)  ![Vue](https://img.shields.io/badge/Vue-1dd1a1?style=for-the-badge&logo=Vue&logoColor=3498db)
+![HTML](https://img.shields.io/badge/HTML-48dbfb?style=for-the-badge&logo=HTML&logoColor=f1c40f)  ![Css](https://img.shields.io/badge/CSS-2e86de?style=for-the-badge&logo=CSS&logoColor=f1c40f)  ![Less](https://img.shields.io/badge/Less-2e86de?style=for-the-badge&logo=Less&logoColor=c8d6e5)  ![Vue](https://img.shields.io/badge/Vue-1dd1a1?style=for-the-badge&logo=Vue&logoColor=3498db)  ![JavaScript](https://img.shields.io/badge/JavaScript-d35400?style=for-the-badge&logo=JavaScript&logoColor=f1c40f)
 
 ## Terminal 
 Bash
@@ -57,6 +57,12 @@ I am proficient in Linux, Unix, and Windows, with skills in system administratio
   <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/2175370.png" alt="Mac" width="40"/> 
   <img src="https://github.com/Egor6052/egor6052/blob/NewSite/assets/free-icon-windows-220215.png" alt="Windows" width="40"/>
 </div>
+
+## Інше
+Figma 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+I have experience with Figma for UI/UX design and prototyping, using it to create mockups and design systems for web projects.
 
 
 ## Personal Qualities:
